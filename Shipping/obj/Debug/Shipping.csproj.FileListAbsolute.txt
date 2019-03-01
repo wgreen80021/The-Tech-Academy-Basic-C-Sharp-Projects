@@ -1,0 +1,6 @@
+C:\Users\Wendy\source\repos\Shipping\Shipping\obj\Debug\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\Shipping\Shipping\bin\Debug\Shipping.exe.config
+C:\Users\Wendy\source\repos\Shipping\Shipping\bin\Debug\Shipping.exe
+C:\Users\Wendy\source\repos\Shipping\Shipping\bin\Debug\Shipping.pdb
+C:\Users\Wendy\source\repos\Shipping\Shipping\obj\Debug\Shipping.exe
+C:\Users\Wendy\source\repos\Shipping\Shipping\obj\Debug\Shipping.pdb

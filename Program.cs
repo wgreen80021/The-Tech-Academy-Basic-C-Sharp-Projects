@@ -46,16 +46,20 @@ class Program
         Console.WriteLine(sb);
         //Console.ReadLine();
 
-        
+
+        List<string> strList2 = new List<string>();
+        strList2.Add("PASS");
+        strList2.Add("FAIL");
+
 
 
         List<string> strList = new List<string>();
 
         strList.Add("We saved so much time deciding to Pass this project ! \n");
-        strList.Add("Are you sure about the Fail ?  ...  maybe you should rethink it ?????\n");
+        strList.Add("Are you sure about the  Fail ?  ...  maybe you should rethink it ?????\n");
         strList.Add("Seriously , incorporated items from last lesson ...  gonna have to ask one more time .... \n");
         strList.Add("ok ..  this will go on forever ....  Last Time   \n");
-        strList.Add("Not taking no for an ansewr .... Let's end this agree to PASS :)  Have a great Day \n");
+        strList.Add("Not taking no for an ansewr .... Let's end this agree to " + strList2[0] + "  :)  Have a great Day \n");
 
        
         
@@ -67,19 +71,20 @@ class Program
         {
             Console.WriteLine("Did this project pass ?  \nPlease select : \n0 - for Pass\n1 - for Fail \n");
             string ansPassFail = Console.ReadLine();
-
+            
 
 
             switch (ansPassFail)
+            
             {
                 case "0":
-                    Console.WriteLine(strList[i]);
+                    Console.WriteLine(strList2[Convert.ToInt32(ansPassFail)] + "\n" +  strList[i]);
                     i = 5;
                     //Console.ReadLine();
                     break;
                 case "1":
                     i++;
-                    Console.WriteLine(strList[i]);
+                    Console.WriteLine(strList2[Convert.ToInt32(ansPassFail)] + "\n" + strList[i]);
                     
                    // Console.ReadLine();
                     break;

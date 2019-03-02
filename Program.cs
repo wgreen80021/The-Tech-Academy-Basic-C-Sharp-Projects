@@ -78,6 +78,7 @@ class Program
             
             {
                 case "0":
+                    i = 0;
                     Console.WriteLine(strList2[Convert.ToInt32(ansPassFail)] + "\n" +  strList[i]);
                     i = 5;
                     //Console.ReadLine();

@@ -1,0 +1,7 @@
+C:\Users\Wendy\source\repos\ClassDrill3\ClassDrill3\bin\Debug\ClassDrill3.exe.config
+C:\Users\Wendy\source\repos\ClassDrill3\ClassDrill3\bin\Debug\ClassDrill3.exe
+C:\Users\Wendy\source\repos\ClassDrill3\ClassDrill3\bin\Debug\ClassDrill3.pdb
+C:\Users\Wendy\source\repos\ClassDrill3\ClassDrill3\obj\Debug\ClassDrill3.csprojAssemblyReference.cache
+C:\Users\Wendy\source\repos\ClassDrill3\ClassDrill3\obj\Debug\ClassDrill3.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\ClassDrill3\ClassDrill3\obj\Debug\ClassDrill3.exe
+C:\Users\Wendy\source\repos\ClassDrill3\ClassDrill3\obj\Debug\ClassDrill3.pdb

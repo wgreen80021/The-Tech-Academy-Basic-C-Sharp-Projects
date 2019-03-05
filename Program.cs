@@ -1,12 +1,23 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Program
+namespace ClassDrill3
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Welcome to Acme Accounting Systems");
-        Console.WriteLine("Remember, we're \"accounting\" on you !");
-        Console.ReadLine();
+        static void Main(string[] args)
+        {
+            MathClass3 a = new MathClass3();
+            int z = a.DoStuff(x: 5);
+            Console.WriteLine("Integer :" + z);
+            decimal d = a.DoStuff(x: 5.5m);
+            Console.WriteLine("Decimal :" + d);
+            string s = a.DoStuff(x: "12");
+            Console.WriteLine("String  :" + s);
+            Console.ReadLine();
+        }
     }
 }
-

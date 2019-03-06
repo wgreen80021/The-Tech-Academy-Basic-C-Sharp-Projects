@@ -1,12 +1,44 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Program
+namespace ClassDrill5
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Welcome to Acme Accounting Systems");
-        Console.WriteLine("Remember, we're \"accounting\" on you !");
-        Console.ReadLine();
+        static void Main(string[] args)
+        {
+            ClassDrill5 a = new ClassDrill5();
+            Console.WriteLine("Enter a number that will be divided by 2 :");
+            string stringX = Console.ReadLine();
+
+            bool b = stringX.Contains(".");
+
+            if (b == true)
+            { 
+               
+                    decimal x = Convert.ToDecimal(stringX);
+                    a.DivideBy2(x, out decimal y);
+                Console.WriteLine("The answer is : " + y);
+                Console.ReadLine();
+            }
+            else
+            {
+                int x = Convert.ToInt32(stringX);
+                a.DivideBy2(x, out int y);
+                Console.WriteLine("The answer is : " + y);
+                Console.ReadLine();
+
+            }
+            
+
+            
+
+
+            
+            
+        }
     }
 }
-

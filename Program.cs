@@ -1,12 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Program
+namespace Inheritance
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Welcome to Acme Accounting Systems");
-        Console.WriteLine("Remember, we're \"accounting\" on you !");
-        Console.ReadLine();
+        static void Main(string[] args)
+        {
+            Employee employee = new Employee();
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
+            employee.SayName();
+            
+
+
+        }
     }
 }
-

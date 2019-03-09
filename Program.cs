@@ -14,8 +14,8 @@ namespace Inheritance
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
-            employee.Quit();
-            
+            employee.Quit("I quit");
+             
 
 
         }

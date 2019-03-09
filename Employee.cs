@@ -13,9 +13,11 @@ namespace Inheritance
     {
         public int id { get; set; }
 
-        public void Quit(Employee employee)
+        public void Quit(string msgQuit)
         {
-            Console.WriteLine("I Quit");
+            Console.WriteLine(msgQuit);
+            Console.ReadLine();
+
             //throw new NotImplementedException();
         }
     }

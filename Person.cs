@@ -17,14 +17,7 @@ namespace Inheritance
 
         }
 
-        public void Quit()
-        {
-            Console.WriteLine("I Quit");
-            Console.ReadLine();
-
-
-
-        }
+       
         public string FirstName { get; set; }
         public string LastName { get; set; }
 

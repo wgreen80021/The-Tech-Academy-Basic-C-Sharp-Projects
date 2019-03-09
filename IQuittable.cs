@@ -9,6 +9,6 @@ namespace Inheritance
     interface IQuittable
     {
 
-        void Quit(Employee employee);
+        void Quit(string MsgQuit);
     }
 }

@@ -11,13 +11,16 @@ namespace Inheritance
         static void Main(string[] args)
         {
             Employee employee = new Employee();
+            IQuittable quit = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
-            employee.Quit("I quit");
-             
+            quit.Quit("I Quit");
+           // employee.Quit("I quit");
+            
 
 
         }
+       
     }
 }

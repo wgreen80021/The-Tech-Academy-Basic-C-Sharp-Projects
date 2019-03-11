@@ -19,7 +19,7 @@ namespace enumCatch
 
                 try
                 {
-                    Console.WriteLine("Enter the day of the week : ");
+                    Console.WriteLine("Enter the day of the week such as Sunday ...  : ");
                     string strDay = Console.ReadLine();
                     Days days = (Days)Enum.Parse(typeof(Days), strDay);
                     Console.WriteLine(strDay + " is a match !!    ");

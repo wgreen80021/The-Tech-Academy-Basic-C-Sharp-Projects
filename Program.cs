@@ -1,12 +1,43 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Program
+namespace enumCatch
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Welcome to Acme Accounting Systems");
-        Console.WriteLine("Remember, we're \"accounting\" on you !");
-        Console.ReadLine();
+        public enum Days { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday };
+        static void Main(string[] args)
+        {
+
+
+
+            bool Except = true;
+            while (Except)
+
+                try
+                {
+                    Console.WriteLine("Enter the day of the week : ");
+                    string strDay = Console.ReadLine();
+                    Days days = (Days)Enum.Parse(typeof(Days), strDay);
+                    Console.WriteLine(strDay + " is a match !!    ");
+                    Except = false;
+                    //return;
+                }
+                catch (SystemException ex)
+                {
+                    Console.WriteLine(ex.Message + "..... Please enter a valid day of the week...  ");
+                    Except = true;
+                    //return;
+
+                }
+            Console.ReadLine();
+        }
+
+
+
     }
 }
 

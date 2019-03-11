@@ -1,0 +1,6 @@
+C:\Users\Wendy\source\repos\enumCatch\enumCatch\bin\Debug\enumCatch.exe.config
+C:\Users\Wendy\source\repos\enumCatch\enumCatch\bin\Debug\enumCatch.exe
+C:\Users\Wendy\source\repos\enumCatch\enumCatch\bin\Debug\enumCatch.pdb
+C:\Users\Wendy\source\repos\enumCatch\enumCatch\obj\Debug\enumCatch.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\enumCatch\enumCatch\obj\Debug\enumCatch.exe
+C:\Users\Wendy\source\repos\enumCatch\enumCatch\obj\Debug\enumCatch.pdb

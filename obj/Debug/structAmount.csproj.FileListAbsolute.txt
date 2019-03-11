@@ -1,0 +1,7 @@
+C:\Users\Wendy\source\repos\structAmount\structAmount\bin\Debug\structAmount.exe.config
+C:\Users\Wendy\source\repos\structAmount\structAmount\bin\Debug\structAmount.exe
+C:\Users\Wendy\source\repos\structAmount\structAmount\bin\Debug\structAmount.pdb
+C:\Users\Wendy\source\repos\structAmount\structAmount\obj\Debug\structAmount.csprojAssemblyReference.cache
+C:\Users\Wendy\source\repos\structAmount\structAmount\obj\Debug\structAmount.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\structAmount\structAmount\obj\Debug\structAmount.exe
+C:\Users\Wendy\source\repos\structAmount\structAmount\obj\Debug\structAmount.pdb

@@ -1,0 +1,7 @@
+C:\Users\Wendy\source\repos\lamda1\lamda1\obj\Debug\lamda1.csprojAssemblyReference.cache
+C:\Users\Wendy\source\repos\lamda1\lamda1\obj\Debug\lamda1.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\lamda1\lamda1\bin\Debug\lamda1.exe.config
+C:\Users\Wendy\source\repos\lamda1\lamda1\bin\Debug\lamda1.exe
+C:\Users\Wendy\source\repos\lamda1\lamda1\bin\Debug\lamda1.pdb
+C:\Users\Wendy\source\repos\lamda1\lamda1\obj\Debug\lamda1.exe
+C:\Users\Wendy\source\repos\lamda1\lamda1\obj\Debug\lamda1.pdb

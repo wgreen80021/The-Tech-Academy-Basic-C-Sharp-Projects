@@ -1,12 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
 
-class Program
+namespace DrillIO1
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Welcome to Acme Accounting Systems");
-        Console.WriteLine("Remember, we're \"accounting\" on you !");
-        Console.ReadLine();
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please enter a whole number");
+            File.WriteAllText(@"C:\Users\Wendy\Documents\School\c#\DrillIO1.txt", Console.ReadLine());
+            Console.WriteLine(File.ReadAllText(@"C:\Users\Wendy\Documents\School\c#\DrillIO1.txt"));
+            Console.ReadLine();
+        }
     }
 }
-

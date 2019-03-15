@@ -1,0 +1,7 @@
+C:\Users\Wendy\source\repos\DrillIO2\DrillIO2\bin\Debug\DrillIO2.exe.config
+C:\Users\Wendy\source\repos\DrillIO2\DrillIO2\bin\Debug\DrillIO2.exe
+C:\Users\Wendy\source\repos\DrillIO2\DrillIO2\bin\Debug\DrillIO2.pdb
+C:\Users\Wendy\source\repos\DrillIO2\DrillIO2\obj\Debug\DrillIO2.csprojAssemblyReference.cache
+C:\Users\Wendy\source\repos\DrillIO2\DrillIO2\obj\Debug\DrillIO2.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\DrillIO2\DrillIO2\obj\Debug\DrillIO2.exe
+C:\Users\Wendy\source\repos\DrillIO2\DrillIO2\obj\Debug\DrillIO2.pdb

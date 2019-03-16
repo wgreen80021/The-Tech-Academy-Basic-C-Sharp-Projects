@@ -1,0 +1,7 @@
+C:\Users\Wendy\source\repos\DrillsVar1\DrillsVar1\obj\Debug\DrillsVar1.csprojAssemblyReference.cache
+C:\Users\Wendy\source\repos\DrillsVar1\DrillsVar1\obj\Debug\DrillsVar1.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\DrillsVar1\DrillsVar1\bin\Debug\DrillsVar1.exe.config
+C:\Users\Wendy\source\repos\DrillsVar1\DrillsVar1\bin\Debug\DrillsVar1.exe
+C:\Users\Wendy\source\repos\DrillsVar1\DrillsVar1\bin\Debug\DrillsVar1.pdb
+C:\Users\Wendy\source\repos\DrillsVar1\DrillsVar1\obj\Debug\DrillsVar1.exe
+C:\Users\Wendy\source\repos\DrillsVar1\DrillsVar1\obj\Debug\DrillsVar1.pdb
